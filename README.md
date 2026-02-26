@@ -123,7 +123,7 @@ The objective of this project is to:
 
 ## 🚀 How to Use
 
-1. Download the `.pbix` file.
+1. Download the `https://github.com/Abinavabii/Blinkit-Dashboard/blob/main/blinkit.pbix` file.
 2. Open it in **Power BI Desktop**.
 3. Interact with filters:
    - Outlet Location
@@ -133,27 +133,5 @@ The objective of this project is to:
 
 ---
 
-## 🌟 Future Improvements
 
-- Add Forecasting Model
-- Integrate Real-Time Data
-- Deploy to Power BI Service
-- Add Row-Level Security
-- Mobile-Optimized Layout
 
----
-
-## 👨‍💻 Author
-
-**Your Name**  
-📧 your.email@example.com  
-🔗 LinkedIn Profile  
-💼 Data Analyst | Power BI Developer
-
----
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub and share your feedback!
-
----
