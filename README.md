@@ -1,7 +1,6 @@
 
 # 🛒 Blinkit Sales Analysis Dashboard 📊
 
-![Blinkit Banner](images/blinkit_banner.png)
 
 > 🚀 A complete end-to-end Power BI project analyzing Blinkit's sales performance, outlet distribution, product trends, and customer ratings.
 
@@ -45,12 +44,6 @@ The objective of this project is to:
 | 💵 Average Sales | $141 |
 
 ---
-
-## 🖼️ Dashboard Preview
-
-### 📌 Main Dashboard View
-
-![Dashboard Screenshot](images/dashboard.png)
 
 ---
 
